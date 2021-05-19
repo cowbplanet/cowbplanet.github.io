@@ -509,7 +509,7 @@ button {
   transition-delay: 0s, 0s, 0s, 0s, 0s, 0s;
   transition-duration: 0.2s, 0.2s, 0.2s, 0.2s, 0.2s, 0.2s;
   transition-timing-function: ease, ease, ease, ease, linear, linear;
-  margin: 10px 0 2px;
+  margin: 10px auto 2px;
 }
 .markdown-body > table {
   border-spacing: 0;
@@ -1825,7 +1825,7 @@ pre .javascript .function {
   box-sizing: border-box;
   width: 100%;
   overflow: hidden;
-  background: url("/images/bg.svg") center center/cover no-repeat;
+  background: url("https://i.loli.net/2021/05/19/TuL16PF3WKQfVjA.jpg") center center/cover no-repeat;
   background-position-y: 70px;
 }
 @media (max-width: 780px) {
